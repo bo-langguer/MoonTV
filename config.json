@@ -112,6 +112,18 @@
     "sbzy":{
       "api":"https://subocj.com/api.php/provide/vod",
       "name":"速播资源"
+    },
+    "okzy":{
+	    "api":"http://api.okzyw.net/api.php/provide/vod",
+	    "name":"OK资源"
+    },
+    "ckzy":{
+	    "api":"https://ckzy.me/api.php/provide/vod",
+	    "name":"CK资源"
+    },
+    "gayzy":{
+	    "api":"https://gayapi.com/api.php/provide/vod",
+	    "name":"gay资源"
     }
   }
 }
